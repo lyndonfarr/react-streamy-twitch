@@ -1,0 +1,10 @@
+{
+  "streams": [
+    {
+      "title": "Welcome to my project",
+      "description": "This project was created using React, Redux, Redux-Thunk, Redux-Form, Semantic UI, and a little bit of lodash. It uses simple functionality to produce a website based on the concept of twitch. I hope you like it.",
+      "userId": "118011144622213324667",
+      "id": 1
+    }
+  ]
+}
